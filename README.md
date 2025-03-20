@@ -1,8 +1,5 @@
-## I'm Jack Jamison
-
-- I’m currently working on [Gatality](https://github.com/Martian-Technologies/Logic-Graph-Creator)
-- I'm interested in learning Vulkan and GPU programming
-- Check out https://portfolio.jackjamison.xyz
+## [Jack Jamison](https://portfolio.jackjamison.xyz)
+Currently working on [Gatality](https://github.com/Martian-Technologies/Logic-Graph-Creator).
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
