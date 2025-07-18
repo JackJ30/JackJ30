@@ -1,4 +1,4 @@
-## [Jack Jamison](https://portfolio.jackjamison.xyz)
+## [Jack Jamison](https://jackjamison.net)
 Working on [Gatality](https://github.com/Martian-Technologies/Logic-Graph-Creator).
 
 <p align="left"> 
