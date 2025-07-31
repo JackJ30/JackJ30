@@ -1,5 +1,5 @@
 ## [Jack Jamison](https://jackjamison.net)
-Working on [Gatality](https://github.com/Martian-Technologies/Logic-Graph-Creator).
+Working on [Connection Machine](https://github.com/Martian-Technologies/Logic-Graph-Creator).
 
 <p align="left"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> 
